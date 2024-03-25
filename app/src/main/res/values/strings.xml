@@ -7,4 +7,11 @@
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
     <string name="tile_label">Example tile</string>
     <string name="complication_label">Example complication</string>
+
+    <string name="timestamp_label">Timestamp: %1$d</string>
+    <string name="mode_active_label">Active Mode (Coroutines)</string>
+    <string name="mode_ambient_label">Ambient Mode (Alarm)</string>
+    <string name="update_rate_label">Update rate: %1$d sec</string>
+    <string name="draw_count_label">Draw count: %1$d</string>
+
 </resources>
